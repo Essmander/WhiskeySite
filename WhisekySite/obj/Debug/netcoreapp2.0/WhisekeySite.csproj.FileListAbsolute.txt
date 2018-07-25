@@ -1,0 +1,11 @@
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\bin\Debug\netcoreapp2.0\WhisekeySite.deps.json
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\bin\Debug\netcoreapp2.0\WhisekeySite.runtimeconfig.json
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\bin\Debug\netcoreapp2.0\WhisekeySite.runtimeconfig.dev.json
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\bin\Debug\netcoreapp2.0\WhisekeySite.dll
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\bin\Debug\netcoreapp2.0\WhisekeySite.pdb
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\obj\Debug\netcoreapp2.0\WhisekeySite.csprojAssemblyReference.cache
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\obj\Debug\netcoreapp2.0\WhisekeySite.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\obj\Debug\netcoreapp2.0\WhisekeySite.AssemblyInfoInputs.cache
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\obj\Debug\netcoreapp2.0\WhisekeySite.AssemblyInfo.cs
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\obj\Debug\netcoreapp2.0\WhisekeySite.dll
+C:\Users\Fredrik\source\repos\WhisekySite\WhisekySite\obj\Debug\netcoreapp2.0\WhisekeySite.pdb

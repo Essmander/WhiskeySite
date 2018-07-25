@@ -1,0 +1,10 @@
+C:\Users\Fredrik\source\repos\WhiskeySite\WhisekySite\bin\Debug\netcoreapp2.0\WhiskeySite.deps.json
+C:\Users\Fredrik\source\repos\WhiskeySite\WhisekySite\bin\Debug\netcoreapp2.0\WhiskeySite.runtimeconfig.json
+C:\Users\Fredrik\source\repos\WhiskeySite\WhisekySite\bin\Debug\netcoreapp2.0\WhiskeySite.runtimeconfig.dev.json
+C:\Users\Fredrik\source\repos\WhiskeySite\WhisekySite\bin\Debug\netcoreapp2.0\WhiskeySite.dll
+C:\Users\Fredrik\source\repos\WhiskeySite\WhisekySite\bin\Debug\netcoreapp2.0\WhiskeySite.pdb
+C:\Users\Fredrik\source\repos\WhiskeySite\WhisekySite\obj\Debug\netcoreapp2.0\WhiskeySite.csproj.CoreCompileInputs.cache
+C:\Users\Fredrik\source\repos\WhiskeySite\WhisekySite\obj\Debug\netcoreapp2.0\WhiskeySite.AssemblyInfoInputs.cache
+C:\Users\Fredrik\source\repos\WhiskeySite\WhisekySite\obj\Debug\netcoreapp2.0\WhiskeySite.AssemblyInfo.cs
+C:\Users\Fredrik\source\repos\WhiskeySite\WhisekySite\obj\Debug\netcoreapp2.0\WhiskeySite.dll
+C:\Users\Fredrik\source\repos\WhiskeySite\WhisekySite\obj\Debug\netcoreapp2.0\WhiskeySite.pdb
